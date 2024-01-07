@@ -23,3 +23,4 @@
 
 Inspired by: https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template
 # admin-dashboard
+# admin-dashboard
